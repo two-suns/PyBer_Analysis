@@ -9,6 +9,7 @@ The data for totals by city type are what can be expected.  The DataFrame is in 
 However, the averages are the opposite.  They decrease as the type of city increases in population density.  This may be due to drivers neededing to go further between destinations in the rural and suburban city types.  Also, with there being less drivers in these areas, the supply of drivers is such that they can charge more for their rides.
 
 ### Multiple-line Chart
-
+![Pyber_fare_summary](https://user-images.githubusercontent.com/59906657/152377807-d907e42d-c3e2-4a38-89ab-61615f3d34f0.png)
+The total fares by city type seem to be fairly consist across the first third of the year.  The urban fares have some jumps around the end of February through March.  St. Patrick's day is in March which could boost the need for people to take rides instead of drive themselves.
 
 ## Summary
